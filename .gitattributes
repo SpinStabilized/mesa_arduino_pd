@@ -1,0 +1,12 @@
+# Source files
+# ============
+*.ino text eol=lf
+
+# Binary Files
+# ============
+*.fzz binary
+
+# Other Text Files
+# ================
+LICENSE text eol=lf
+*.md    text eol=lf
